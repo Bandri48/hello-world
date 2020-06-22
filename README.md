@@ -1,3 +1,3 @@
 # hello-world
 just another repository
- I am a studtent from China
+I am a studtent from China
